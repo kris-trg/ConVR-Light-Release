@@ -38,7 +38,7 @@ To use ConVRsations Light:
 
 3\. Drag the file to all necessary fields in the inspector window (AIConversationManager.cs, AvatarSelectionUI.cs, AvatarSpawner.cs)
 
-4\. Change reference link to wherever you store your prompts
+4\. Change reference link (MainMenu/Canvas/Panel_Config/Prompt Cloud URL) to wherever you store your prompts, or use the default: https://raw.githubusercontent.com/kris-trg/ConVR-Light-Release/main/Prompts/prompts.json
 
 5\. If you do not have prompts yet, download the Prompt Editor zip-Folder from the main ConVRsations Repo (linked above; see Authoring > Prompt Editor.zip) to help you create some
 
