@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2047151995327183290
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e1472464e7988604f8aba7511bc70597, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.5845058
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e1472464e7988604f8aba7511bc70597, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.014000279
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e1472464e7988604f8aba7511bc70597, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -12.731119
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e1472464e7988604f8aba7511bc70597, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e1472464e7988604f8aba7511bc70597, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e1472464e7988604f8aba7511bc70597, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e1472464e7988604f8aba7511bc70597, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e1472464e7988604f8aba7511bc70597, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e1472464e7988604f8aba7511bc70597, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e1472464e7988604f8aba7511bc70597, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e1472464e7988604f8aba7511bc70597, type: 3}
+      propertyPath: m_Name
+      value: NPC_Kate
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: e1472464e7988604f8aba7511bc70597, type: 3}
+      propertyPath: m_Avatar
+      value: 
+      objectReference: {fileID: 9000000, guid: aaae2f1bcae5cd0478734b329ef991f4, type: 3}
+    - target: {fileID: 5866666021909216657, guid: e1472464e7988604f8aba7511bc70597, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 498496ab85340d54eb0d8d938081975d, type: 2}
+    - target: {fileID: 5866666021909216657, guid: e1472464e7988604f8aba7511bc70597, type: 3}
+      propertyPath: m_WarningMessage
+      value: "\nBinding warning: Some generic clip(s) animate transforms that are
+        already bound by a Humanoid avatar. These transforms can only be changed
+        by Humanoid clips.\n\tTransform 'Bip01 L UpperArm'\n\tTransform 'Bip01 R
+        Finger31'\n\tTransform 'Bip01 L Finger01'\n\tTransform 'Bip01 R UpperArm'\n\tTransform
+        'Bip01 L Finger21'\n\tTransform 'Bip01 R Finger11'\n\tTransform 'Bip01 L
+        Foot'\n\tTransform 'Bip01 Head'\n\tTransform 'Bip01 L Finger02'\n\tTransform
+        'Bip01 L Finger12'\n\tand more ...\n\tFrom animation clip 'Take 001'"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: e1472464e7988604f8aba7511bc70597, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: e1472464e7988604f8aba7511bc70597, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -1371697825140048249}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: e1472464e7988604f8aba7511bc70597, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -7193844136773179101}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: e1472464e7988604f8aba7511bc70597, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4855568621279528983}
+  m_SourcePrefab: {fileID: 100100000, guid: e1472464e7988604f8aba7511bc70597, type: 3}
+--- !u!1 &1200658130660771051 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: e1472464e7988604f8aba7511bc70597, type: 3}
+  m_PrefabInstance: {fileID: 2047151995327183290}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &-1371697825140048249
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1200658130660771051}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d1f0d596166c784081866cb7a71bc30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NpcGaze
+  target: {fileID: 0}
+  bodyWeight: 0.1
+  headWeight: 0.7
+  eyesWeight: 1
+  clampWeight: 0.6
+  blendSpeed: 2
+--- !u!114 &-7193844136773179101
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1200658130660771051}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a4752cb8646d5f4085c487336dcccc9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NpcLipSync
+  source: {fileID: 0}
+  faceRenderer: {fileID: 0}
+  mouthBlendShapeNames:
+  - mouthOpen
+  - jawOpen
+  - viseme_aa
+  - aa
+  - A
+  maxWeight: 60
+  jawBone: {fileID: 0}
+  jawOpenEuler: {x: 0, y: 0, z: 12}
+  sensitivity: 8
+  noiseGate: 0.01
+  openSpeed: 20
+  closeSpeed: 10
+--- !u!114 &4855568621279528983
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1200658130660771051}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b924a580720f12d40a89f40f1e391af9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NpcBlink
+  faceRenderer: {fileID: 0}
+  blinkBlendShapeNames:
+  - eyesClosed
+  - eyeBlinkLeft
+  - eyeBlinkRight
+  - eyeBlink_L
+  - eyeBlink_R
+  - Blink
+  - blink
+  maxWeight: 100
+  lidNameParts:
+  - eyeblink
+  - eyelid
+  eyelidBones: []
+  topLidEulerRight: {x: 0, y: 0, z: -30}
+  topLidEulerLeft: {x: 0, y: 0, z: -30}
+  bottomLidEuler: {x: 0, y: 0, z: 0}
+  holdClosedForTesting: 0
+  intervalRange: {x: 2.5, y: 6}
+  closeTime: 0.06
+  openTime: 0.12
+  doubleBlinkChance: 0.15

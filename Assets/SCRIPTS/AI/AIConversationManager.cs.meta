@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 21c0267bbe9a03343a3eb63b6e40942c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - config: {fileID: 11400000, guid: 055141f37aa4f21458b44c3374a134a7, type: 2}
+  - recorder: {instanceID: 0}
+  - studyLogger: {instanceID: 0}
+  - npcAnimator: {instanceID: 0}
+  - toggleAction: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

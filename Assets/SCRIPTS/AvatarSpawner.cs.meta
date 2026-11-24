@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 431cf0705fac89c4fa4830c6f24ea812
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - config: {fileID: 11400000, guid: 055141f37aa4f21458b44c3374a134a7, type: 2}
+  - spawnPoint: {instanceID: 0}
+  - conversationManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
